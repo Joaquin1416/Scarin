@@ -17,7 +17,7 @@ export function HeroSection() {
           transition={{ duration: 1 }}
           className="text-5xl md:text-7xl font-extrabold text-purple-700 tracking-tight mb-6"
         >
-          Feliz Aniversario
+          Hola mi niña hermosa
         </motion.h1>
         
         <motion.p
@@ -26,7 +26,7 @@ export function HeroSection() {
           transition={{ duration: 1, delay: 0.3 }}
           className="text-xl md:text-2xl text-purple-950/70 font-medium mb-10 max-w-2xl mx-auto"
         >
-          He preparado esta pequeña sorpresa para celebrar todo lo que hemos vivido y lo que nos falta por vivir juntos.
+          He preparado esta sorpresita para celebrar nuestros 4 meses juntos espero te guste.
         </motion.p>
 
         <motion.div

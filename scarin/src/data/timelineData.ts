@@ -112,7 +112,7 @@ export const timelineDescriptions: Record<string, { title?: string; description:
   },
   "28": {
     title: "Recuerdo 28",
-    description: "Fuimos a comer a uno de los locales pequeños de por ahi, disfrute mucho ese almuerzo contigo.",
+    description: "Fuimos a comer a uno de los locales pequeños de por ahi, disfrute mucho ese almuerzo contigo muchisimo.",
   },
   "29": {
     title: "Recuerdo 29",
@@ -132,402 +132,230 @@ export const timelineDescriptions: Record<string, { title?: string; description:
   },
   "33": {
     title: "Recuerdo 33",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Oficialmente pololos jiji",
   },
   "34": {
     title: "Recuerdo 34",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "35": {
-    title: "Recuerdo 35",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "36": {
-    title: "Recuerdo 36",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "37": {
-    title: "Recuerdo 37",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "El dia mas feliz de mi vida de verdad, me sentia tan feliz de estar contigo.",
   },
   "38": {
     title: "Recuerdo 38",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Me encanta sacarte fotos jijij",
   },
   "39": {
     title: "Recuerdo 39",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Siempre las veo cuando puedo y me transporto a esos momentos",
   },
   "40": {
     title: "Recuerdo 40",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Aqui estaba armando el precioso regalo de 14 de febrero que me diste, me gusto muchisimo armarlo jiji",
   },
   "41": {
     title: "Recuerdo 41",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Tu cumpleaños y mi regalo adelantado, no podia esperar para dártelo y ver tu carita de felicidad me encanto, me hizo sentir tan feliz",
   },
   "42": {
     title: "Recuerdo 42",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Ademas de que fue la primera vez que me dijiste te amo, que me hizo sentir en el cielo",
   },
   "43": {
     title: "Recuerdo 43",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Tu carita tierna me derritio de amor",
   },
   "44": {
     title: "Recuerdo 44",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Aqui fue la primera vez que viajamos juntos a los andes viaje como pololitos",
   },
   "45": {
     title: "Recuerdo 45",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Compartimos mucho en este viaje, conversamos un montón y me encanta cuando lo hacemos",
   },
   "46": {
     title: "Recuerdo 46",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "47": {
-    title: "Recuerdo 47",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Hablamos mucho de nuestras familias y de anecdotas de cuando eramos chicos, los del bus nos querian puro pegar de tanto que nos reiamos",
   },
   "48": {
     title: "Recuerdo 48",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Aqui me pegaste un watesito, upsi",
   },
   "49": {
     title: "Recuerdo 49",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Fue por sacarte fotitos desprevenida jiji",
   },
   "50": {
     title: "Recuerdo 50",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Cada fin de semana contigo, es lo mejor de mi semana",
   },
   "51": {
     title: "Recuerdo 51",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Recuerdo esas noches que saliamos al patio en los andes a disfrutar del silencio y de la compañia del otro, claro que se sumaba la blanqui",
   },
   "52": {
     title: "Recuerdo 52",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Mira que hermosa eres nada mas, que linda preciosa bellisima y mi pololita jijiji.",
   },
   "53": {
     title: "Recuerdo 53",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "El cielo estaba bellisimo ese dia pero nunca se compara con lo hermosa que eres tu.",
   },
   "54": {
     title: "Recuerdo 54",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Salir a comprar contigo era muy tranquilo y grato, porque estabas a mi lado",
   },
   "55": {
     title: "Recuerdo 55",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Aqui ya nos teniamos que ir en un rato a santiago, pero antes nos sacamos unas fotitos para el recuerdo",
   },
   "56": {
     title: "Recuerdo 56",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "57": {
-    title: "Recuerdo 57",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Tu como siempre saliendo hermosa y yo cagando la foto jiji",
   },
   "58": {
     title: "Recuerdo 58",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "59": {
-    title: "Recuerdo 59",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "60": {
-    title: "Recuerdo 60",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "61": {
-    title: "Recuerdo 61",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Aqui estabamos en la plaza paseando al osito y nos pusimos a sacarnos fotitos mientras el oso jugaba",
   },
   "62": {
     title: "Recuerdo 62",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Aqui estabamos en la plaza paseando al osito y nos pusimos a sacarnos fotitos mientras el oso jugaba",
   },
   "63": {
     title: "Recuerdo 63",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Como siempre amo disfrutar tu compañia, hablando de lo que sea y haciendo cualquier cosita",
   },
   "64": {
     title: "Recuerdo 64",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "65": {
-    title: "Recuerdo 65",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "66": {
-    title: "Recuerdo 66",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Aqui sacandonos fotitos y mientras tanto el oso meando todo y oliendo todo jiji",
   },
   "67": {
     title: "Recuerdo 67",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Aqui fue pascua y me regalaste una canastita de huevitos, chocolatitos, gomitas y un peluche, estaba muy feliz",
   },
   "68": {
     title: "Recuerdo 68",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "69": {
-    title: "Recuerdo 69",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "70": {
-    title: "Recuerdo 70",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Aqui estabamos en plaza de armas y nos sacamos unas fotitos antes de ir a comer",
   },
   "71": {
     title: "Recuerdo 71",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Puras fotos vendias saqué",
   },
   "72": {
     title: "Recuerdo 72",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "73": {
-    title: "Recuerdo 73",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "74": {
-    title: "Recuerdo 74",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "75": {
-    title: "Recuerdo 75",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Bueno en esta salgo como el pico a proposito pero me encanta jijiji",
   },
   "76": {
     title: "Recuerdo 76",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Estas fotos nos las sacamos en el mall chino jijiji",
   },
   "77": {
     title: "Recuerdo 77",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "78": {
-    title: "Recuerdo 78",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "79": {
-    title: "Recuerdo 79",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "80": {
-    title: "Recuerdo 80",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "81": {
-    title: "Recuerdo 81",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Compramos esas cositas para pegar las lentejuelas pero nunca la terminamos, upsi",
   },
   "82": {
     title: "Recuerdo 82",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Me encanta esta foto porque salimos wapetones",
   },
   "83": {
     title: "Recuerdo 83",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "84": {
-    title: "Recuerdo 84",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "85": {
-    title: "Recuerdo 85",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Aqui nos sacamos fotos en tu cama jijiji",
   },
   "86": {
     title: "Recuerdo 86",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Me da mucha risa esta foto jijij",
   },
   "87": {
     title: "Recuerdo 87",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Yo tambien tenia que hacerlo para acompañarte jiji",
   },
   "88": {
     title: "Recuerdo 88",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Aqui fuimos al cumpleaños de la nico, comimos muchisimo jiji",
   },
   "89": {
     title: "Recuerdo 89",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "90": {
-    title: "Recuerdo 90",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "91": {
-    title: "Recuerdo 91",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Tu siempre viendote tan hermosa y yo como siempre cagando la foto",
   },
   "92": {
     title: "Recuerdo 92",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "93": {
-    title: "Recuerdo 93",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "94": {
-    title: "Recuerdo 94",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Me encanta poder ir junto a ti a todos lados amor",
   },
   "95": {
     title: "Recuerdo 95",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Estas son fotitos que nos sacamos antes de ir a la casa de mi abuela por mi cumpleaños",
   },
   "96": {
     title: "Recuerdo 96",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Ese fin de semana fue muy especial para mi porque estabas conmigo en mi cumpleaños",
   },
   "97": {
     title: "Recuerdo 97",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Ademas me hiciste el mejor regalo del mundo, me dejaste boquiabierto y me dio mucha penita",
   },
   "98": {
     title: "Recuerdo 98",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "99": {
-    title: "Recuerdo 99",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "100": {
-    title: "Recuerdo 100",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "101": {
-    title: "Recuerdo 101",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "102": {
-    title: "Recuerdo 102",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Pero te agradezco mucho de verdad mucho el regalo que hiciste, es algo que valoro muchisimo.",
   },
   "103": {
     title: "Recuerdo 103",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Aqui tu disfrutando jugar con la chipi jiji",
   },
   "104": {
     title: "Recuerdo 104",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Estas fotos te las saque mientras esperabamos que mi mama llegara",
   },
   "105": {
     title: "Recuerdo 105",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "106": {
-    title: "Recuerdo 106",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Que hermosa eres diosmio",
   },
   "107": {
     title: "Recuerdo 107",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Tu super enojada por las fotitos que te sacaba jiji",
   },
   "108": {
     title: "Recuerdo 108",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Ese dia te fui a buscar al la u y nos tomamos un starbucks, recuerdo que me quedo, estaba muy rico pero helaidisimo lptm",
   },
   "109": {
     title: "Recuerdo 109",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Me encanta cuando me robas los lentes porque te vez tan preciosa con ellos puestos",
   },
   "110": {
     title: "Recuerdo 110",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Por dios mira tu cara de hermosura, me encanta como se te ven los lentes.",
   },
   "111": {
     title: "Recuerdo 111",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "HERMOSA PRECIOSA BELLISIMA, ademas de que te quedan muy bien los lentes, ves mucho mejor con ellos puestos asi que es ganara x ganar",
   },
   "112": {
     title: "Recuerdo 112",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Este dia te invité a comer algo rico a una picada, ibamos con muchisima hambre y comimos muchito, estaba todo rico.",
   },
   "113": {
     title: "Recuerdo 113",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Fotito de cuando llegaron los platos, tu carita de felicidad lo dice todo, estaba riquisimo",
   },
   "114": {
     title: "Recuerdo 114",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "115": {
-    title: "Recuerdo 115",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "116": {
-    title: "Recuerdo 116",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "117": {
-    title: "Recuerdo 117",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "118": {
-    title: "Recuerdo 118",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Luego pasamos al mall chino a comprar un regalito para la chipi",
   },
   "119": {
     title: "Recuerdo 119",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Esas orejeras con los botones para que saltara una oreja estaban geniales, disfrute mucho ese dia.",
   },
   "120": {
     title: "Recuerdo 120",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "121": {
-    title: "Recuerdo 121",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "122": {
-    title: "Recuerdo 122",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "123": {
-    title: "Recuerdo 123",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "124": {
-    title: "Recuerdo 124",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "125": {
-    title: "Recuerdo 125",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Que hermosa mi niña por dios, me encantas.",
   },
   "126": {
     title: "Recuerdo 126",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "127": {
-    title: "Recuerdo 127",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Aqui ibamos de camino al cumpleaños de la chipi, tu de lo mas hermosa como siempre.",
   },
   "128": {
     title: "Recuerdo 128",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Lo pasamos muy bien ese dia, comimos mucho, completos canapés y todo, estaba todo muy rico.",
   },
   "129": {
     title: "Recuerdo 129",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "130": {
-    title: "Recuerdo 130",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "131": {
-    title: "Recuerdo 131",
-    description: "Escribe aquí la historia detrás de esta foto...",
-  },
-  "132": {
-    title: "Recuerdo 132",
-    description: "Escribe aquí la historia detrás de esta foto...",
+    description: "Luego me robaste los lentes de nuevo jiji",
   },
 };
