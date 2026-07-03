@@ -4,8 +4,12 @@ import { useAudioPlayer } from "@/hooks/useAudioPlayer";
 import { Music, Pause } from "lucide-react";
 import { cn } from "@/lib/utils";
 
+const PLAYLIST = [
+  "/audio/310. Mon Laferte - Amor Completo Audio.mp3"
+];
+
 export function HiddenMusicPlayer() {
-  const { isPlaying, togglePlay } = useAudioPlayer("/audio/Morocha - Milo J LyricLetra.mp3", true);
+  const { isPlaying, togglePlay } = useAudioPlayer(PLAYLIST, true);
 
   return (
     <button

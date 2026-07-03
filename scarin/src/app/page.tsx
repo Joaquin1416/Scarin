@@ -2,6 +2,7 @@ import { HeroSection } from "@/components/HeroSection";
 import { StoryTimeline } from "@/components/timeline/StoryTimeline";
 import { PhotoGallery } from "@/components/gallery/PhotoGallery";
 import { HiddenMusicPlayer } from "@/components/audio/HiddenMusicPlayer";
+import { LoveMessage } from "@/components/LoveMessage";
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
     >
       <HeroSection />
       <StoryTimeline />
+      <LoveMessage />
       <PhotoGallery />
       <HiddenMusicPlayer />
     </main>

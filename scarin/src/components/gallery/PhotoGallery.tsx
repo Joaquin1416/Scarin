@@ -20,8 +20,8 @@ export async function PhotoGallery() {
     <section className="py-20" id="gallery">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-4xl font-extrabold text-purple-700 mb-4">Nuestros Mejores Momentos</h2>
-          <p className="text-purple-900/60 text-lg">Una pequeña colección de sonrisas juntos</p>
+          <h2 className="text-4xl font-extrabold text-purple-700 mb-4">Galería</h2>
+          <p className="text-purple-900/60 text-lg">Una pequeña colección de fotitos que me encantan</p>
         </div>
 
         {formattedPhotos.length > 0 ? (
