@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Para Ti - Nuestro Aniversario",
-  description: "Un pequeño detalle para celebrar nuestra historia.",
+  description: "Un pequeño detalle para celebrar nuestra historia",
 };
 
 export default function RootLayout({
